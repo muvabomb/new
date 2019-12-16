@@ -47,7 +47,7 @@
     "semantic-release": "^15.13.25",
     "simple-mock": "^0.8.0",
     "sort-keys": "^4.0.0",
-    "tap": "^14.0.0"
+    "tap": "^14.10.3"
   },
   "dependencies": {}
 }
