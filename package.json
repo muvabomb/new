@@ -37,7 +37,7 @@
     "@octokit/types": "^2.0.2"
   },
   "devDependencies": {
-    "@octokit/core": "^2.2.0",
+    "@octokit/core": "^2.4.0",
     "@octokit/graphql": "^4.2.0",
     "@pika/pack": "^0.5.0",
     "@pika/plugin-build-node": "^0.8.1",
